@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Printer body -->
+  <rect x="8" y="22" width="48" height="28" rx="4" ry="4" fill="#4a90d9"/>
+  <!-- Paper tray top -->
+  <rect x="16" y="16" width="32" height="8" rx="2" ry="2" fill="#357abd"/>
+  <!-- Paper coming out -->
+  <rect x="18" y="10" width="28" height="14" rx="2" ry="2" fill="white" opacity="0.95"/>
+  <!-- Photo on paper — gradient representing a photo -->
+  <rect x="21" y="12" width="22" height="10" rx="1" ry="1" fill="#c8b8a2"/>
+  <rect x="21" y="12" width="10" height="10" rx="1" ry="1" fill="#8a7060" opacity="0.7"/>
+  <!-- Printer slot line -->
+  <rect x="12" y="28" width="40" height="3" rx="1" ry="1" fill="#357abd"/>
+  <!-- Printer buttons -->
+  <circle cx="44" cy="38" r="3" fill="white" opacity="0.8"/>
+  <circle cx="52" cy="38" r="3" fill="#7ec8a0" opacity="0.9"/>
+</svg>
