@@ -61,7 +61,7 @@ TurboPrint must be installed and configured separately. See [turboprint.info](ht
 Clone the repository and run the installer:
 
 ```bash
-git clone https://github.com/yourusername/printflow.git
+git clone https://github.com/Kalifornia1979/printflow.git
 cd printflow
 bash install.sh
 ```
