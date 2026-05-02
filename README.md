@@ -20,6 +20,17 @@ This project was built together with [Claude](https://claude.ai) (Anthropic's AI
 
 ---
 
+## ☕ Support this project
+
+If PrintFlow improves your printing workflow on Linux, you can support further development:
+
+<a href="https://www.buymeacoffee.com/dittbrukernavn" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+       alt="Buy Me A Coffee" height="50">
+</a>
+
+It helps me keep building better tools for photographers on Linux.
+
 ## What does it do?
 
 PrintFlow provides a single window for photo printing on Linux via TurboPrint:
