@@ -16,7 +16,7 @@ PrintFlow started as a personal tool to bring everything together in one place. 
 
 This project was built together with [Claude](https://claude.ai) (Anthropic's AI assistant). Testing, feedback, and contributions are very welcome.
 
-> **See also:** [ColorFlow](https://github.com/yourusername/colorflow) — a companion tool for checking and managing your color management setup on Linux.
+> **See also:** [ColorFlow](https://github.com/Kalifornia1979/colorflow) — a companion tool for checking and managing your color management setup on Linux.
 
 ---
 
@@ -24,7 +24,7 @@ This project was built together with [Claude](https://claude.ai) (Anthropic's AI
 
 If PrintFlow improves your printing workflow on Linux, you can support further development:
 
-<a href="https://www.buymeacoffee.com/dittbrukernavn" target="_blank">
+<a href="https://www.buymeacoffee.com/Kalifornia1979" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" height="50">
 </a>
