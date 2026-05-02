@@ -138,3 +138,7 @@ MIT License — free to use, modify, and share.
 ## Credits
 
 Built by Peter Risholm with [Claude](https://claude.ai) (Anthropic). Printing via [TurboPrint](https://www.turboprint.info/) by ZEDOnet GmbH.
+
+---
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
