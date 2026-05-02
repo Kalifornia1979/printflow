@@ -31,6 +31,8 @@ If PrintFlow improves your printing workflow on Linux, you can support further d
 
 It helps me keep building better tools for photographers on Linux.
 
+---
+
 ## What does it do?
 
 PrintFlow provides a single window for photo printing on Linux via TurboPrint:
